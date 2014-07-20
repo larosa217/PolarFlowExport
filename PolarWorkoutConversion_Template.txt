@@ -1,0 +1,9 @@
+type = Cycling
+starttime = 
+endtime = 
+distance = 
+calories = 
+HRavg = 
+HRmax = 
+maxspeed = 0
+values = 
